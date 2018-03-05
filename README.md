@@ -21,3 +21,4 @@ nebuna conf -put nebunadb.config ./config.yaml
 nebuna node -list  
 nebuna seednode -list  
 nebuna node -join 10.1.2.10  
+nebuna node restart
