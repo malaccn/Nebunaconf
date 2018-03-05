@@ -16,6 +16,7 @@ nebunadb/config.yaml 内容：
 ```
 ## 配置命令
 nebuna conf -get nebunadb.config  
+nebuna conf -get nebunadb.config "#id=1 and #name like 'dbbackend?'"
 nebuna conf -put nebunadb.config ./config.yaml  
 nebuna node -list  
 nebuna seednode -list  
