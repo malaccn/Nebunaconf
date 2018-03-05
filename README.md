@@ -1,7 +1,7 @@
 # Nebunaconf
 ## 去中心化配置中心
 创建配置文件  
-nebunadb/config.yaml 内容：  
+nebunadb/config.json 内容：  
 ```
 [  
    { id: 1,  
