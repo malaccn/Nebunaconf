@@ -14,8 +14,8 @@ nebunadb/config.yaml 内容：
  ]  
 
 ## 配置命令
-nebuna conf -get nebunadb.config 
-nebuna conf -put nebunadb.config ./config.yaml
-nebuna node -list
-nebuna seednode -list
-nebuna node -add 10.1.2.10
+nebuna conf -get nebunadb.config  
+nebuna conf -put nebunadb.config ./config.yaml  
+nebuna node -list  
+nebuna seednode -list  
+nebuna node -add 10.1.2.10  
